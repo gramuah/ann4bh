@@ -34,4 +34,5 @@ If you make use of this data and software, please cite the following reference i
 This project has been developed and tested under Ubuntu 22.04.
 
 ## Usage
-TODO: add scripts
+Simply run the python script parabolic_eq_solver.py and enjoy!
+
